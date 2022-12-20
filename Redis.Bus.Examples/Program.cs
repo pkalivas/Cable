@@ -1,4 +1,6 @@
-﻿using Redis.Bus.Core;
+﻿using System;
+using System.Threading.Tasks;
+using Redis.Bus.Core;
 using Redis.Bus.Interfaces;
 
 public record MOne(string Data) : IMessage;

@@ -15,17 +15,17 @@ public class TestHandler : IMessageHandler<MOne>,
 {
     public async Task Handle(MOne message)
     {
-        Console.WriteLine($"Received Message {message.Data} from Penis");
+        Console.WriteLine($"Received Message {message.Data} MOne");
     }
 
     public async Task Handle(MTwo message)
     {
-        Console.WriteLine($"Received Message {message.Data} from Penis2");
+        Console.WriteLine($"Received Message {message.Data} from MTwo");
     }
 
     public async Task Handle(MThree message)
     {
-        Console.WriteLine($"Received Message {message.Data} from Penis3");
+        Console.WriteLine($"Received Message {message.Data} from MThree");
     }
 }
 
@@ -33,7 +33,7 @@ public class TestTwoHandler : IMessageHandler<MTwo>
 {
     public async Task Handle(MTwo message)
     {
-        Console.WriteLine($"Received Message {message.Data} from Penis2 in TestTwo");
+        Console.WriteLine($"Received Message {message.Data} from MTwo in TestTwo");
     }
 }
 

@@ -1,7 +1,7 @@
 using System.Reflection;
-using Redis.Bus.Interfaces;
+using Cable.Interfaces;
 
-namespace Redis.Bus.Core;
+namespace Cable.Core;
 
 public class Transport
 {

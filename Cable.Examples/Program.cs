@@ -1,7 +1,7 @@
-﻿using System;
-using System.Threading.Tasks;
-using Redis.Bus.Core;
-using Redis.Bus.Interfaces;
+﻿using Cable.Core;
+using Cable.Interfaces;
+
+namespace Redis.Bus.Examples;
 
 public record MOne(string Data) : IMessage;
 

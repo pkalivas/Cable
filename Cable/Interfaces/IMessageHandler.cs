@@ -1,4 +1,4 @@
-namespace Redis.Bus.Interfaces;
+namespace Cable.Interfaces;
 
 public interface IMessage { }
 

@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.Bus", "Redis.Bus\Redis.Bus.csproj", "{3E08DBEA-C155-459E-8B5B-9EA5786A07C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cable", "Cable\Cable.csproj", "{3E08DBEA-C155-459E-8B5B-9EA5786A07C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.Bus.Examples", "Redis.Bus.Examples\Redis.Bus.Examples.csproj", "{8E189F0D-02B2-4A5E-B404-B1F1D14AA2AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cable.Examples", "Cable.Examples\Cable.Examples.csproj", "{8E189F0D-02B2-4A5E-B404-B1F1D14AA2AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Redis.Bus.Examples/1.0.0": {
+        "dependencies": {
+          "Redis.Bus": "1.0.0"
+        },
+        "runtime": {
+          "Redis.Bus.Examples.dll": {}
+        }
+      },
+      "Redis.Bus/1.0.0": {
+        "runtime": {
+          "Redis.Bus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Redis.Bus.Examples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Redis.Bus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wZdxUKtzq/C3g+TtDPWcIk7hqhuY0LTCiAnuAMuFKXE2id9qckK9kerdbBg0WXtGIUjCLUj2FO9crblO6osFXw==",
+  "success": true,
+  "projectFilePath": "/Users/peter/Dev/Redis-Bus/Redis.Bus/Redis.Bus.Examples/Redis.Bus.Examples.csproj",
+  "expectedPackageFiles": [
+    "/Users/peter/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/peter/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/peter/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
